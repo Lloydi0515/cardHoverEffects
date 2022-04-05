@@ -16,6 +16,13 @@ body {
     background-attachment: fixed;
 }
 
+h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #blue;
+}
+
 .container {
     position: relative;
     width: 1000px;
