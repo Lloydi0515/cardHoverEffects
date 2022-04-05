@@ -16,6 +16,18 @@ body {
     background-attachment: fixed;
 }
 
+h1 {
+    color: #ff0057;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1:hover {
+    color: #b8ff2e;
+}
+
 .container {
     position: relative;
     width: 1000px;
